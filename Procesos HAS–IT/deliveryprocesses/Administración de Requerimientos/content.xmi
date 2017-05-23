@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4FVTPpAPMsCMQpa8ozzx_Q" name="Administración de Requerimientos,_6dKdsT9PEeeLrpNhssVv8A" guid="-4FVTPpAPMsCMQpa8ozzx_Q">
-  <mainDescription>Probando los cambios en este repo</mainDescription>
   <purpose>El propósito de la Gestión de Requisitos (REQM) es gestionar los requisitos de los productos y los componentes de producto&#xD;
 del proyecto, y asegurar la alineación entre esos requisitos, y los planes y los productos de trabajo del proyecto.</purpose>
 </org.eclipse.epf.uma:DeliveryProcessDescription>
