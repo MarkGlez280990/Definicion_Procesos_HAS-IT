@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EV2VWsBeZpZnPr4JxO609g" name="Aseguramiento de la Calidad de procesos y productos,_i6sR4T9PEeeLrpNhssVv8A" guid="-EV2VWsBeZpZnPr4JxO609g">
+  <purpose>El propósito del Aseguramiento de la Calidad del Proceso y del Producto (PPQA) es proporcionar al personal y a la gerencia&#xD;
+una visión objetiva de los procesos y de los productos de trabajo asociados.</purpose>
+</org.eclipse.epf.uma:DeliveryProcessDescription>

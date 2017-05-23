@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_1Xkv0T9CEeeLrpNhssVv8A" guid="_1Xkv0T9CEeeLrpNhssVv8A">
+    <resourceDescriptors xmi:id="_1Xkv0j9CEeeLrpNhssVv8A" id="-ef8WjODmmhsKjb-siDIScQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_1WYdAD9CEeeLrpNhssVv8A" name="Monitoreo y Control de Proyectos" guid="_1WYdAD9CEeeLrpNhssVv8A">
+    <methodElementProperty xmi:id="_1WYdAj9CEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_AulrYD9DEeeLrpNhssVv8A" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4RMoUD9CEeeLrpNhssVv8A" name="Revisión del Proyecto" guid="_4RMoUD9CEeeLrpNhssVv8A" presentationName="Revisión del Proyecto" superActivities="_1WYdAT9CEeeLrpNhssVv8A" isSynchronizedWithSource="false" mandatoryInput="_3tKm0D9FEeeLrpNhssVv8A _3tKm0j9FEeeLrpNhssVv8A _3tKm0z9FEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_3tKm0T9FEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_3tKm0D9FEeeLrpNhssVv8A/mandatoryInput/_3tKm0j9FEeeLrpNhssVv8A/mandatoryInput/_3tKm0z9FEeeLrpNhssVv8A/mandatoryInput"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OjmTYD9DEeeLrpNhssVv8A" name="Analizar Cambios" guid="_OjmTYD9DEeeLrpNhssVv8A" presentationName="Analizar Cambios" superActivities="_1WYdAT9CEeeLrpNhssVv8A" isSynchronizedWithSource="false" mandatoryInput="_3tKm0z9FEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_6ZRAsD9FEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_3tKm0z9FEeeLrpNhssVv8A/mandatoryInput"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Rr3r4D9DEeeLrpNhssVv8A" name="Analizar Riesgos" guid="_Rr3r4D9DEeeLrpNhssVv8A" presentationName="Analizar Riesgos" superActivities="_1WYdAT9CEeeLrpNhssVv8A" isSynchronizedWithSource="false" mandatoryInput="_-QDsED9FEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_-QDsET9FEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_-QDsED9FEeeLrpNhssVv8A/mandatoryInput"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_S1MEYD9DEeeLrpNhssVv8A" name="Actualizar Bitacora" guid="_S1MEYD9DEeeLrpNhssVv8A" presentationName="Actualizar Bitacora" superActivities="_1WYdAT9CEeeLrpNhssVv8A" isSynchronizedWithSource="false" mandatoryInput="_-QDsED9FEeeLrpNhssVv8A" output="_-QDsED9FEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_AK19wD9GEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_-QDsED9FEeeLrpNhssVv8A/mandatoryInput/_-QDsED9FEeeLrpNhssVv8A/output"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Xuri4D9DEeeLrpNhssVv8A" name="Notificar Actualización " guid="_Xuri4D9DEeeLrpNhssVv8A" presentationName="Notificar Actualización " superActivities="_1WYdAT9CEeeLrpNhssVv8A" linkToPredecessor="_V2Cw0T9EEeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_D91uQD9GEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_D91uQT9GEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_D91uQD9GEeeLrpNhssVv8A/output"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_aodzcD9DEeeLrpNhssVv8A" name="Documentar Resultados" guid="_aodzcD9DEeeLrpNhssVv8A" presentationName="Documentar Resultados" superActivities="_1WYdAT9CEeeLrpNhssVv8A" linkToPredecessor="_8IcUwT9EEeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_HwGe8D9GEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_HwGe8T9GEeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_HwGe8D9GEeeLrpNhssVv8A/output"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_V2Cw0T9EEeeLrpNhssVv8A" guid="_V2Cw0T9EEeeLrpNhssVv8A" pred="_S1MEYD9DEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8IcUwT9EEeeLrpNhssVv8A" guid="_8IcUwT9EEeeLrpNhssVv8A" pred="_Xuri4D9DEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3tKm0D9FEeeLrpNhssVv8A" name="Bitacora de Proyecto" guid="_3tKm0D9FEeeLrpNhssVv8A" presentationName="Bitacora de Proyecto" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_3tKm1D9FEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_ezbGED9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3tKm0j9FEeeLrpNhssVv8A" name="Documento Lista" guid="_3tKm0j9FEeeLrpNhssVv8A" presentationName="Documento Lista" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_3tKm1T9FEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_aVmP4D9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_3tKm0z9FEeeLrpNhssVv8A" name="Documento Petición de Cambios" guid="_3tKm0z9FEeeLrpNhssVv8A" presentationName="Documento Petición de Cambios" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_3tKm1j9FEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_g6LXMD9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_-QDsED9FEeeLrpNhssVv8A" name="Bitacora de Riesgos" guid="_-QDsED9FEeeLrpNhssVv8A" presentationName="Bitacora de Riesgos" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_-QDsEj9FEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_lmiYoD9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_D91uQD9GEeeLrpNhssVv8A" name="notificacin_de_actualizacin_bitacora" guid="_D91uQD9GEeeLrpNhssVv8A" presentationName="Notificación de Actualización Bitacora" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_D91uQj9GEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_rtNb8D9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_HwGe8D9GEeeLrpNhssVv8A" name="Documento de Resultados de Revisión" guid="_HwGe8D9GEeeLrpNhssVv8A" presentationName="Documento de Resultados de Revisión" isPlanned="false" superActivities="_1WYdAT9CEeeLrpNhssVv8A">
+      <methodElementProperty xmi:id="_HwGe8j9GEeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
+      <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_xBYEQD9FEeeLrpNhssVv8A"/>
+    </processElements>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_1WYdAT9CEeeLrpNhssVv8A" name="Monitoreo y Control de Proyectos" guid="_1WYdAT9CEeeLrpNhssVv8A" presentationName="Monitoreo y Control de Proyectos" breakdownElements="_4RMoUD9CEeeLrpNhssVv8A _OjmTYD9DEeeLrpNhssVv8A _Rr3r4D9DEeeLrpNhssVv8A _S1MEYD9DEeeLrpNhssVv8A _Xuri4D9DEeeLrpNhssVv8A _aodzcD9DEeeLrpNhssVv8A _3tKm0D9FEeeLrpNhssVv8A _3tKm0j9FEeeLrpNhssVv8A _3tKm0z9FEeeLrpNhssVv8A _-QDsED9FEeeLrpNhssVv8A _D91uQD9GEeeLrpNhssVv8A _HwGe8D9GEeeLrpNhssVv8A">
+      <presentation xmi:id="-ef8WjODmmhsKjb-siDIScQ" href="uma://-ef8WjODmmhsKjb-siDIScQ#-ef8WjODmmhsKjb-siDIScQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

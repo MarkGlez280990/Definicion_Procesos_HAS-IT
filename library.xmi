@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_2yCJMT8iEeeLrpNhssVv8A" guid="_2yCJMT8iEeeLrpNhssVv8A">
+    <subManagers xmi:id="_SMvK0D8jEeeLrpNhssVv8A" href="uma://_SMsHgD8jEeeLrpNhssVv8A#_SMvK0D8jEeeLrpNhssVv8A"/>
+    <resourceDescriptors xmi:id="_2yCJMj8iEeeLrpNhssVv8A" id="_2yCJMD8iEeeLrpNhssVv8A" uri=""/>
+    <resourceDescriptors xmi:id="_SMvK0T8jEeeLrpNhssVv8A" id="_SMsHgD8jEeeLrpNhssVv8A" uri="Procesos%20HAS–IT/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_2yCJMD8iEeeLrpNhssVv8A" name="Procesos HAS–IT" guid="_2yCJMD8iEeeLrpNhssVv8A">
+    <methodElementProperty xmi:id="_2zT7kD8iEeeLrpNhssVv8A" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_SMsHgD8jEeeLrpNhssVv8A" href="uma://_SMsHgD8jEeeLrpNhssVv8A#_SMsHgD8jEeeLrpNhssVv8A"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

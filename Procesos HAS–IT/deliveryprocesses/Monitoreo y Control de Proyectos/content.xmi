@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ef8WjODmmhsKjb-siDIScQ" name="Monitoreo y Control de Proyectos,_1WYdAT9CEeeLrpNhssVv8A" guid="-ef8WjODmmhsKjb-siDIScQ">
+  <purpose>El propósito de la Monitorización y Control del Proyecto (PMC) es proporcionar una comprensión del progreso del proyecto&#xD;
+para que se puedan tomar las acciones correctivas apropiadas, cuando el rendimiento del proyecto se desvíe&#xD;
+significativamente del plan.</purpose>
+</org.eclipse.epf.uma:DeliveryProcessDescription>

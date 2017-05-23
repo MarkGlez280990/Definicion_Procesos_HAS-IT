@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-t5HA3_HzT_b-k7vW1ZHMOg" name="Requisitos,_qmHh8T9OEeeLrpNhssVv8A" guid="-t5HA3_HzT_b-k7vW1ZHMOg"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-YrsjK2YroSCmOpC80q7euQ" name="Gestión de Configuración,_rOESwD9OEeeLrpNhssVv8A" guid="-YrsjK2YroSCmOpC80q7euQ">
+    <purpose>El propósito de la Gestión de Configuración (CM) es establecer y mantener la integridad de los productos de trabajo&#xD;
+utilizando la identificación de la configuración, el control de la configuración, el informe del estado de la configuración&#xD;
+y las auditorías de la configuración.</purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+</xmi:XMI>

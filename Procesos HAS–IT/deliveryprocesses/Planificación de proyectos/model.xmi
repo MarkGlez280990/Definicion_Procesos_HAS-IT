@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_krYKMT9AEeeLrpNhssVv8A" guid="_krYKMT9AEeeLrpNhssVv8A">
+    <resourceDescriptors xmi:id="_krYKMj9AEeeLrpNhssVv8A" id="-W_VWdWwiyqFUnWGITn1bhg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_kqVoYD9AEeeLrpNhssVv8A" name="Planificación de proyectos" guid="_kqVoYD9AEeeLrpNhssVv8A">
+    <methodElementProperty xmi:id="_kqVoYj9AEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_rH798D9AEeeLrpNhssVv8A" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_pgCMAD9AEeeLrpNhssVv8A" guid="_pgCMAD9AEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_p4nrID9AEeeLrpNhssVv8A" guid="_p4nrID9AEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qA0k4D9AEeeLrpNhssVv8A" guid="_qA0k4D9AEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qdmngD9AEeeLrpNhssVv8A" guid="_qdmngD9AEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qofB0D9AEeeLrpNhssVv8A" guid="_qofB0D9AEeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qv7toD9AEeeLrpNhssVv8A" guid="_qv7toD9AEeeLrpNhssVv8A"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_kqVoYT9AEeeLrpNhssVv8A" name="Planificación de proyectos" guid="_kqVoYT9AEeeLrpNhssVv8A" presentationName="Planificación de proyectos">
+      <presentation xmi:id="-W_VWdWwiyqFUnWGITn1bhg" href="uma://-W_VWdWwiyqFUnWGITn1bhg#-W_VWdWwiyqFUnWGITn1bhg"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

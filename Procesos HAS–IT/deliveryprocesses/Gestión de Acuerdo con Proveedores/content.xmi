@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ygSO8v3qaU_XEXyOziyqSw" name="Gestión de Acuerdo con Proveedores,_RrhQIT9PEeeLrpNhssVv8A" guid="-ygSO8v3qaU_XEXyOziyqSw">
+  <purpose>El propósito de la Gestión de Acuerdos con Proveedores (SAM) es gestionar la adquisición de productos y servicios de&#xD;
+proveedores.</purpose>
+</org.eclipse.epf.uma:DeliveryProcessDescription>
