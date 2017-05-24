@@ -6,13 +6,25 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_kqVoYD9AEeeLrpNhssVv8A" name="Planificación de proyectos" guid="_kqVoYD9AEeeLrpNhssVv8A">
     <methodElementProperty xmi:id="_kqVoYj9AEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_rH798D9AEeeLrpNhssVv8A" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pR1IIEAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_pR1IIEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_pR1IIUAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_pR1IIUAVEeer85hVr7UZzw" presentationName="Procesos Jesus Antonio" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qvqYEEAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_qvqYEEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qvq_IEAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_qvq_IEAVEeer85hVr7UZzw" presentationName="Procesos Daniel" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sMb4EEAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_sMb4EEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_sMb4EUAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_sMb4EUAVEeer85hVr7UZzw" presentationName="Procesos Gerardo" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tZvYsEAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_tZvYsEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_tZvYsUAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_tZvYsUAVEeer85hVr7UZzw" presentationName="Procesos Mauricio" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
+    </childPackages>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_pgCMAD9AEeeLrpNhssVv8A" guid="_pgCMAD9AEeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_p4nrID9AEeeLrpNhssVv8A" guid="_p4nrID9AEeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qA0k4D9AEeeLrpNhssVv8A" guid="_qA0k4D9AEeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qdmngD9AEeeLrpNhssVv8A" guid="_qdmngD9AEeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qofB0D9AEeeLrpNhssVv8A" guid="_qofB0D9AEeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qv7toD9AEeeLrpNhssVv8A" guid="_qv7toD9AEeeLrpNhssVv8A"/>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_kqVoYT9AEeeLrpNhssVv8A" name="Planificación de proyectos" guid="_kqVoYT9AEeeLrpNhssVv8A" presentationName="Planificación de proyectos">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_kqVoYT9AEeeLrpNhssVv8A" name="Planificación de proyectos" guid="_kqVoYT9AEeeLrpNhssVv8A" presentationName="Planificación de proyectos" breakdownElements="_pR1IIUAVEeer85hVr7UZzw _qvq_IEAVEeer85hVr7UZzw _sMb4EUAVEeer85hVr7UZzw _tZvYsUAVEeer85hVr7UZzw">
       <presentation xmi:id="-W_VWdWwiyqFUnWGITn1bhg" href="uma://-W_VWdWwiyqFUnWGITn1bhg#-W_VWdWwiyqFUnWGITn1bhg"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>

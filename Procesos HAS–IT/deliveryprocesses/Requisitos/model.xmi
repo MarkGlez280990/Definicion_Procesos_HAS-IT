@@ -7,24 +7,38 @@
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_qmHh8D9OEeeLrpNhssVv8A" name="Gestión de Configuración" guid="_qmHh8D9OEeeLrpNhssVv8A">
     <methodElementProperty xmi:id="_qmIJAD9OEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_XUfDwD9PEeeLrpNhssVv8A" name="me_edited" value="true"/>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uIZOsD92EeeLrpNhssVv8A" name="Notificar la creacion del repositorio y plan de  gestion de configuracion" guid="_uIZOsD92EeeLrpNhssVv8A" presentationName="Notificar la creacion del repositorio y plan de  gestion de configuracion" superActivities="_rOESwD9OEeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_1QcaAD93EeeLrpNhssVv8A">
-      <methodElementProperty xmi:id="_1QcaAT93EeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_1QcaAD93EeeLrpNhssVv8A/output"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_29mU0D92EeeLrpNhssVv8A" name="Identificar elementos de gestion de la configuracion" guid="_29mU0D92EeeLrpNhssVv8A" presentationName="Identificar elementos de gestion de la configuracion" superActivities="_rOESwD9OEeeLrpNhssVv8A" linkToPredecessor="_iob9ED93EeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_FeLM4D94EeeLrpNhssVv8A">
-      <methodElementProperty xmi:id="_FeLM4T94EeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_FeLM4D94EeeLrpNhssVv8A/output"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Vjs7cD93EeeLrpNhssVv8A" name="Identificar cambios necesarios a la gestion de la configuracion" guid="_Vjs7cD93EeeLrpNhssVv8A" presentationName="Identificar cambios necesarios a la gestion de la configuracion" superActivities="_rOESwD9OEeeLrpNhssVv8A" linkToPredecessor="_jFFc0D93EeeLrpNhssVv8A" isSynchronizedWithSource="false" mandatoryInput="_oVJy0D94EeeLrpNhssVv8A" output="_qBQvUD94EeeLrpNhssVv8A">
-      <methodElementProperty xmi:id="_oVJy0T94EeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_oVJy0D94EeeLrpNhssVv8A/mandatoryInput/_qBQvUD94EeeLrpNhssVv8A/output"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ZDgqMD93EeeLrpNhssVv8A" name="Evaluacion del cambio a la gestion de la configuracion" guid="_ZDgqMD93EeeLrpNhssVv8A" presentationName="Evaluacion del cambio a la gestion de la configuracion" superActivities="_rOESwD9OEeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_zFmdoD94EeeLrpNhssVv8A" performedPrimarilyBy="_uKSaMD94EeeLrpNhssVv8A _uyitAD94EeeLrpNhssVv8A">
-      <methodElementProperty xmi:id="_uKSaMT94EeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_uKSaMD94EeeLrpNhssVv8A/performedPrimarilyBy/_uyitAD94EeeLrpNhssVv8A/performedPrimarilyBy/_zFmdoD94EeeLrpNhssVv8A/output"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_cVle8D93EeeLrpNhssVv8A" name="Notificar sobre sugerencia de cambio" guid="_cVle8D93EeeLrpNhssVv8A" presentationName="Notificar sobre sugerencia de cambio" superActivities="_rOESwD9OEeeLrpNhssVv8A" isSynchronizedWithSource="false" output="_1QcaAD93EeeLrpNhssVv8A" performedPrimarilyBy="_uyitAD94EeeLrpNhssVv8A">
-      <methodElementProperty xmi:id="_3Dsq4D94EeeLrpNhssVv8A" name="descriptor_localUsingInfo" value="_uyitAD94EeeLrpNhssVv8A/performedPrimarilyBy/_1QcaAD93EeeLrpNhssVv8A/output"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iob9ED93EeeLrpNhssVv8A" guid="_iob9ED93EeeLrpNhssVv8A" pred="_uIZOsD92EeeLrpNhssVv8A"/>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jFFc0D93EeeLrpNhssVv8A" guid="_jFFc0D93EeeLrpNhssVv8A" pred="_29mU0D92EeeLrpNhssVv8A"/>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kHbqoD93EeeLrpNhssVv8A" guid="_kHbqoD93EeeLrpNhssVv8A" pred="_cVle8D93EeeLrpNhssVv8A"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SBZukEAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_SBZukEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_SBZukUAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_SBZukUAVEeer85hVr7UZzw" presentationName="Procesos Jesus Antonio" superActivities="_rOESwD9OEeeLrpNhssVv8A" breakdownElements="_OLKDgEAaEeer85hVr7UZzw _OLKDgUAaEeer85hVr7UZzw _OLKDgkAaEeer85hVr7UZzw _OLKDg0AaEeer85hVr7UZzw _OLKDhEAaEeer85hVr7UZzw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OLKDgEAaEeer85hVr7UZzw" name="Notificar la creacion del repositorio y plan de  gestion de configuracion" guid="_OLKDgEAaEeer85hVr7UZzw" presentationName="Notificar la creacion del repositorio y plan de  gestion de configuracion" superActivities="_SBZukUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" output="_1QcaAD93EeeLrpNhssVv8A">
+        <methodElementProperty xmi:id="_Os1NNUAaEeer85hVr7UZzw" name="descriptor_localUsingInfo" value="_1QcaAD93EeeLrpNhssVv8A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OLKDgUAaEeer85hVr7UZzw" name="Identificar elementos de gestion de la configuracion" guid="_OLKDgUAaEeer85hVr7UZzw" presentationName="Identificar elementos de gestion de la configuracion" superActivities="_SBZukUAVEeer85hVr7UZzw" linkToPredecessor="_iob9ED93EeeLrpNhssVv8A _o1WOMUAaEeer85hVr7UZzw" isSynchronizedWithSource="false" output="_FeLM4D94EeeLrpNhssVv8A">
+        <methodElementProperty xmi:id="_Os1NNkAaEeer85hVr7UZzw" name="descriptor_localUsingInfo" value="_FeLM4D94EeeLrpNhssVv8A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OLKDgkAaEeer85hVr7UZzw" name="Identificar cambios necesarios a la gestion de la configuracion" guid="_OLKDgkAaEeer85hVr7UZzw" presentationName="Identificar cambios necesarios a la gestion de la configuracion" superActivities="_SBZukUAVEeer85hVr7UZzw" linkToPredecessor="_jFFc0D93EeeLrpNhssVv8A _qFhcoUAaEeer85hVr7UZzw" isSynchronizedWithSource="false" mandatoryInput="_oVJy0D94EeeLrpNhssVv8A" output="_qBQvUD94EeeLrpNhssVv8A">
+        <methodElementProperty xmi:id="_Os1NN0AaEeer85hVr7UZzw" name="descriptor_localUsingInfo" value="_oVJy0D94EeeLrpNhssVv8A/mandatoryInput/_qBQvUD94EeeLrpNhssVv8A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OLKDg0AaEeer85hVr7UZzw" name="Evaluacion del cambio a la gestion de la configuracion" guid="_OLKDg0AaEeer85hVr7UZzw" presentationName="Evaluacion del cambio a la gestion de la configuracion" superActivities="_SBZukUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" output="_zFmdoD94EeeLrpNhssVv8A" performedPrimarilyBy="_uKSaMD94EeeLrpNhssVv8A _uyitAD94EeeLrpNhssVv8A">
+        <methodElementProperty xmi:id="_Os1NOEAaEeer85hVr7UZzw" name="descriptor_localUsingInfo" value="_uKSaMD94EeeLrpNhssVv8A/performedPrimarilyBy/_uyitAD94EeeLrpNhssVv8A/performedPrimarilyBy/_zFmdoD94EeeLrpNhssVv8A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OLKDhEAaEeer85hVr7UZzw" name="Notificar sobre sugerencia de cambio" guid="_OLKDhEAaEeer85hVr7UZzw" presentationName="Notificar sobre sugerencia de cambio" superActivities="_SBZukUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" output="_1QcaAD93EeeLrpNhssVv8A" performedPrimarilyBy="_uyitAD94EeeLrpNhssVv8A">
+        <methodElementProperty xmi:id="_Os1NOUAaEeer85hVr7UZzw" name="descriptor_localUsingInfo" value="_uyitAD94EeeLrpNhssVv8A/performedPrimarilyBy/_1QcaAD93EeeLrpNhssVv8A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_o1WOMUAaEeer85hVr7UZzw" guid="_o1WOMUAaEeer85hVr7UZzw" pred="_OLKDgEAaEeer85hVr7UZzw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qFhcoUAaEeer85hVr7UZzw" guid="_qFhcoUAaEeer85hVr7UZzw" pred="_OLKDgUAaEeer85hVr7UZzw"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TQ_HIEAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_TQ_HIEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_TQ_HIUAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_TQ_HIUAVEeer85hVr7UZzw" presentationName="Procesos Daniel" superActivities="_rOESwD9OEeeLrpNhssVv8A"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_UOdcAEAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_UOdcAEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_UOdcAUAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_UOdcAUAVEeer85hVr7UZzw" presentationName="Procesos Gerardo" superActivities="_rOESwD9OEeeLrpNhssVv8A"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_VZx_oEAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_VZx_oEAVEeer85hVr7UZzw">
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_VZx_oUAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_VZx_oUAVEeer85hVr7UZzw" presentationName="Procesos Mauricio" superActivities="_rOESwD9OEeeLrpNhssVv8A"/>
+    </childPackages>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iob9ED93EeeLrpNhssVv8A" guid="_iob9ED93EeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jFFc0D93EeeLrpNhssVv8A" guid="_jFFc0D93EeeLrpNhssVv8A"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kHbqoD93EeeLrpNhssVv8A" guid="_kHbqoD93EeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1QcaAD93EeeLrpNhssVv8A" name="correo" guid="_1QcaAD93EeeLrpNhssVv8A" presentationName="Correo" isPlanned="false" superActivities="_rOESwD9OEeeLrpNhssVv8A">
       <methodElementProperty xmi:id="_1QcaAj93EeeLrpNhssVv8A" name="descriptor_createdByReference" value="true"/>
       <methodElementProperty xmi:id="_nq7-4D99EeeLrpNhssVv8A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
@@ -60,7 +74,7 @@
       <methodElementProperty xmi:id="_nrA3YD99EeeLrpNhssVv8A" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
       <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_LEPl4D9qEeeLrpNhssVv8A"/>
     </processElements>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_rOESwD9OEeeLrpNhssVv8A" name="Gestión de Configuración" guid="_rOESwD9OEeeLrpNhssVv8A" presentationName="Gestión de Configuración" breakdownElements="_uIZOsD92EeeLrpNhssVv8A _29mU0D92EeeLrpNhssVv8A _Vjs7cD93EeeLrpNhssVv8A _ZDgqMD93EeeLrpNhssVv8A _cVle8D93EeeLrpNhssVv8A _1QcaAD93EeeLrpNhssVv8A _FeLM4D94EeeLrpNhssVv8A _oVJy0D94EeeLrpNhssVv8A _qBQvUD94EeeLrpNhssVv8A _uKSaMD94EeeLrpNhssVv8A _uyitAD94EeeLrpNhssVv8A _zFmdoD94EeeLrpNhssVv8A">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_rOESwD9OEeeLrpNhssVv8A" name="Gestión de Configuración" guid="_rOESwD9OEeeLrpNhssVv8A" presentationName="Gestión de Configuración" breakdownElements="_1QcaAD93EeeLrpNhssVv8A _FeLM4D94EeeLrpNhssVv8A _oVJy0D94EeeLrpNhssVv8A _qBQvUD94EeeLrpNhssVv8A _uKSaMD94EeeLrpNhssVv8A _uyitAD94EeeLrpNhssVv8A _zFmdoD94EeeLrpNhssVv8A _SBZukUAVEeer85hVr7UZzw _TQ_HIUAVEeer85hVr7UZzw _UOdcAUAVEeer85hVr7UZzw _VZx_oUAVEeer85hVr7UZzw">
       <presentation xmi:id="-YrsjK2YroSCmOpC80q7euQ" href="uma://-t5HA3_HzT_b-k7vW1ZHMOg#-YrsjK2YroSCmOpC80q7euQ"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
