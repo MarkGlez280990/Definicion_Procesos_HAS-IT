@@ -36,37 +36,37 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_U_FWoD8jEeeLrpNhssVv8A" name="Procesos HAS-IT" guid="_U_FWoD8jEeeLrpNhssVv8A" presentationName="Procesos HAS–IT">
           <methodElementProperty xmi:id="_U_F9sD8jEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_XpV9cD8jEeeLrpNhssVv8A" name="me_edited" value="true"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ZZ2RwD8jEeeLrpNhssVv8A" name="lider_de_proyecto" guid="_ZZ2RwD8jEeeLrpNhssVv8A" presentationName="Lider de Proyecto">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ZZ2RwD8jEeeLrpNhssVv8A" name="Lider de Proyecto" guid="_ZZ2RwD8jEeeLrpNhssVv8A" presentationName="Lider de Proyecto">
             <methodElementProperty xmi:id="_9zw0oD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_cSi9MD8jEeeLrpNhssVv8A" name="CEO" guid="_cSi9MD8jEeeLrpNhssVv8A" presentationName="CEO">
             <methodElementProperty xmi:id="_9yykQD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e4RCQD8jEeeLrpNhssVv8A" name="gerencia_" guid="_e4RCQD8jEeeLrpNhssVv8A" presentationName="Gerencia ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e4RCQD8jEeeLrpNhssVv8A" name="Gerencia" guid="_e4RCQD8jEeeLrpNhssVv8A" presentationName="Gerencia">
             <methodElementProperty xmi:id="_90U1UD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HhbCMD8kEeeLrpNhssVv8A" name="sepg" guid="_HhbCMD8kEeeLrpNhssVv8A" presentationName="SEPG">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HhbCMD8kEeeLrpNhssVv8A" name="SEPG" guid="_HhbCMD8kEeeLrpNhssVv8A" presentationName="SEPG">
             <methodElementProperty xmi:id="_9xsYED8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fUyJsD8kEeeLrpNhssVv8A" name="desarrollador_hardware" guid="_fUyJsD8kEeeLrpNhssVv8A" presentationName="Desarrollador Hardware">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fUyJsD8kEeeLrpNhssVv8A" name="Desarrollador Hardware" guid="_fUyJsD8kEeeLrpNhssVv8A" presentationName="Desarrollador Hardware">
             <methodElementProperty xmi:id="_908gYD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_h41a0D8kEeeLrpNhssVv8A" name="desarrollador_software" guid="_h41a0D8kEeeLrpNhssVv8A" presentationName="Desarrollador Software">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_h41a0D8kEeeLrpNhssVv8A" name="Desarrollador Software" guid="_h41a0D8kEeeLrpNhssVv8A" presentationName="Desarrollador Software">
             <methodElementProperty xmi:id="_9xBCoD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_k9v9UD8kEeeLrpNhssVv8A" name="operador_tecnico" guid="_k9v9UD8kEeeLrpNhssVv8A" presentationName="Operador Tecnico">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_k9v9UD8kEeeLrpNhssVv8A" name="Operador Tecnico" guid="_k9v9UD8kEeeLrpNhssVv8A" presentationName="Operador Tecnico">
             <methodElementProperty xmi:id="_91n10D8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_t3_7gD8kEeeLrpNhssVv8A" name="consejo_tecnico" guid="_t3_7gD8kEeeLrpNhssVv8A" presentationName="Consejo Tecnico">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_t3_7gD8kEeeLrpNhssVv8A" name="Consejo Tecnico" guid="_t3_7gD8kEeeLrpNhssVv8A" presentationName="Consejo Tecnico">
             <methodElementProperty xmi:id="_9za2YD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_xSRqAD8kEeeLrpNhssVv8A" name="finanzas" guid="_xSRqAD8kEeeLrpNhssVv8A" presentationName="Finanzas">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_xSRqAD8kEeeLrpNhssVv8A" name="Finanzas" guid="_xSRqAD8kEeeLrpNhssVv8A" presentationName="Finanzas">
             <methodElementProperty xmi:id="_92k4ED8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_20bD8D8kEeeLrpNhssVv8A" name="diseniador_grafico" guid="_20bD8D8kEeeLrpNhssVv8A" presentationName="Diseniador Grafico">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_20bD8D8kEeeLrpNhssVv8A" name="Diseñador Grafico" guid="_20bD8D8kEeeLrpNhssVv8A" presentationName="Diseñador Grafico">
             <methodElementProperty xmi:id="_91_pQD8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6XEEQD8kEeeLrpNhssVv8A" name="diseniador_electronico" guid="_6XEEQD8kEeeLrpNhssVv8A" presentationName="Diseniador electronico">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6XEEQD8kEeeLrpNhssVv8A" name="Diseniador Electronico" guid="_6XEEQD8kEeeLrpNhssVv8A" presentationName="Diseniador Electronico">
             <methodElementProperty xmi:id="_9xXA4D8kEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_o0rCMD89EeeLrpNhssVv8A" name="Documento de Estimación de Actividades" guid="_o0rCMD89EeeLrpNhssVv8A" presentationName="Documento de Estimación de Actividades">
@@ -141,7 +141,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_m46r4D9YEeeLrpNhssVv8A" name="Repositorio de proyecto" guid="_m46r4D9YEeeLrpNhssVv8A" presentationName="Repositorio de proyecto">
             <methodElementProperty xmi:id="_n7EscD9YEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e14iMD9bEeeLrpNhssVv8A" name="cliente" guid="_e14iMD9bEeeLrpNhssVv8A" presentationName="Cliente">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e14iMD9bEeeLrpNhssVv8A" name="Cliente" guid="_e14iMD9bEeeLrpNhssVv8A" presentationName="Cliente">
             <methodElementProperty xmi:id="_f8JmsD9bEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_mw2pID9lEeeLrpNhssVv8A" name="Criterios para validar requerimientos" guid="_mw2pID9lEeeLrpNhssVv8A" presentationName="Criterios para validar requerimientos">
@@ -186,7 +186,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_KpEHUD_OEeeLrpNhssVv8A" name="Lista de productos a adquirir" guid="_KpEHUD_OEeeLrpNhssVv8A" presentationName="Lista de productos a adquirir">
             <methodElementProperty xmi:id="_Mn7AsD_OEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_2xYaID_sEeeLrpNhssVv8A" name="pruebas" guid="_2xYaID_sEeeLrpNhssVv8A" presentationName="Pruebas">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_2xYaID_sEeeLrpNhssVv8A" name="Pruebas" guid="_2xYaID_sEeeLrpNhssVv8A" presentationName="Pruebas">
             <methodElementProperty xmi:id="_3swdQD_sEeeLrpNhssVv8A" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
