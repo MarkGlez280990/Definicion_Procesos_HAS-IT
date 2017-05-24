@@ -7,7 +7,8 @@
     <methodElementProperty xmi:id="_kqVoYj9AEeeLrpNhssVv8A" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="_rH798D9AEeeLrpNhssVv8A" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pR1IIEAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_pR1IIEAVEeer85hVr7UZzw">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_pR1IIUAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_pR1IIUAVEeer85hVr7UZzw" presentationName="Procesos Jesus Antonio" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_pR1IIUAVEeer85hVr7UZzw" name="Procesos Jesus Antonio" guid="_pR1IIUAVEeer85hVr7UZzw" presentationName="Procesos Jesus Antonio" superActivities="_kqVoYT9AEeeLrpNhssVv8A" breakdownElements="_w365UEAhEeeebrj6tfbPug"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_w365UEAhEeeebrj6tfbPug" name="Actividad 1" guid="_w365UEAhEeeebrj6tfbPug" presentationName="Actividad 1" superActivities="_pR1IIUAVEeer85hVr7UZzw" isSynchronizedWithSource="false"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qvqYEEAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_qvqYEEAVEeer85hVr7UZzw">
       <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qvq_IEAVEeer85hVr7UZzw" name="Procesos Daniel" guid="_qvq_IEAVEeer85hVr7UZzw" presentationName="Procesos Daniel" superActivities="_kqVoYT9AEeeLrpNhssVv8A"/>
