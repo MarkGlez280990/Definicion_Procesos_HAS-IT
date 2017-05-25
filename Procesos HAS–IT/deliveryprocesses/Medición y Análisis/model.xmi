@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_eqUo4D9PEeeLrpNhssVv8A" guid="_eqUo4D9PEeeLrpNhssVv8A">
     <resourceDescriptors xmi:id="_eqUo4T9PEeeLrpNhssVv8A" id="-LSJZuW-zgapoBTrN-8Mp_g" uri="content.xmi"/>
@@ -36,8 +36,8 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CoAegEAcEeer85hVr7UZzw" guid="_CoAegEAcEeer85hVr7UZzw" pred="_7OyOMUAbEeer85hVr7UZzw"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_C9TZEEAcEeer85hVr7UZzw" guid="_C9TZEEAcEeer85hVr7UZzw" pred="_7OyOMkAbEeer85hVr7UZzw"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_DPBbMEAcEeer85hVr7UZzw" guid="_DPBbMEAcEeer85hVr7UZzw" pred="_7OyOM0AbEeer85hVr7UZzw"/>
-      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_DhfrQEAcEeer85hVr7UZzw" guid="_DhfrQEAcEeer85hVr7UZzw" pred="_7OyONEAbEeer85hVr7UZzw"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D58AcEAcEeer85hVr7UZzw" guid="_D58AcEAcEeer85hVr7UZzw" pred="_7OyONUAbEeer85hVr7UZzw"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_T_ZJYUNDEee3sef2bN9sDg" guid="_T_ZJYUNDEee3sef2bN9sDg" pred="_7OyONEAbEeer85hVr7UZzw"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Z2qaoEAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_Z2qaoEAVEeer85hVr7UZzw">
       <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Z2qaoUAVEeer85hVr7UZzw" name="Procesos Gerardo" guid="_Z2qaoUAVEeer85hVr7UZzw" presentationName="Procesos Gerardo" superActivities="_eo33YT9PEeeLrpNhssVv8A" breakdownElements="_NSELoEBXEee6M-LTB7rwOg _S7kKwEBXEee6M-LTB7rwOg _T7FuEEBXEee6M-LTB7rwOg _YtRDoEBXEee6M-LTB7rwOg _cdJ1wEBXEee6M-LTB7rwOg _j95DUEBXEee6M-LTB7rwOg _mCL2UEBXEee6M-LTB7rwOg _vRoBYEBXEee6M-LTB7rwOg _6yI3MEBXEee6M-LTB7rwOg _7j7ggEBXEee6M-LTB7rwOg _8MdgIEBXEee6M-LTB7rwOg _9VMCwEBXEee6M-LTB7rwOg _Fnq2UEBYEee6M-LTB7rwOg _M2t28EBYEee6M-LTB7rwOg _SQbtoEBYEee6M-LTB7rwOg _cc9zEEBYEee6M-LTB7rwOg _hDSd8EBYEee6M-LTB7rwOg _wNjosEBYEee6M-LTB7rwOg _zRbCUEBYEee6M-LTB7rwOg _4cy7AEBYEee6M-LTB7rwOg _8PtzAEBYEee6M-LTB7rwOg _EmmlcEBZEee6M-LTB7rwOg _JL7KwEBZEee6M-LTB7rwOg _LrCRgEBZEee6M-LTB7rwOg _T0ym4EBZEee6M-LTB7rwOg _Xrd9gEBZEee6M-LTB7rwOg"/>
