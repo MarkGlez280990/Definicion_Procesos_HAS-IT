@@ -95,7 +95,96 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__qhswED3EeekWLN6uDEQkg" guid="__qhswED3EeekWLN6uDEQkg" pred="_uGulcEBgEee6M-LTB7rwOg"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_VZx_oEAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_VZx_oEAVEeer85hVr7UZzw">
-      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_VZx_oUAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_VZx_oUAVEeer85hVr7UZzw" presentationName="Procesos Mauricio" superActivities="_rOESwD9OEeeLrpNhssVv8A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_VZx_oUAVEeer85hVr7UZzw" name="Procesos Mauricio" guid="_VZx_oUAVEeer85hVr7UZzw" presentationName="Procesos Mauricio" superActivities="_rOESwD9OEeeLrpNhssVv8A" breakdownElements="_mulc4EFVEeeXYpPycUtd4A _t2rg8EFVEeeXYpPycUtd4A _J2kTQEFWEeeXYpPycUtd4A _PP5IYEFWEeeXYpPycUtd4A _UGd1wEFWEeeXYpPycUtd4A _mrCkMEFWEeeXYpPycUtd4A _7zvcQEFWEeeXYpPycUtd4A _CBW1EEFXEeeXYpPycUtd4A _CBW1EkFXEeeXYpPycUtd4A _CBW1E0FXEeeXYpPycUtd4A _CBW1FEFXEeeXYpPycUtd4A _CBW1FUFXEeeXYpPycUtd4A _wPL-gEFXEeeXYpPycUtd4A _5pIJYEFXEeeXYpPycUtd4A _e3FNwEFYEeeXYpPycUtd4A _qNOmoEFYEeeXYpPycUtd4A _u2reAEFYEeeXYpPycUtd4A _1kL30EFYEeeXYpPycUtd4A _A_xKUEFZEeeXYpPycUtd4A _IOHnYEFZEeeXYpPycUtd4A _N_a3oEFZEeeXYpPycUtd4A _Y2FfMEFZEeeXYpPycUtd4A _dV2PEEFZEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_mulc4EFVEeeXYpPycUtd4A" name="Se crea la línea base de CM" guid="_mulc4EFVEeeXYpPycUtd4A" presentationName="Se crea la línea&#xD;&#xA; base de CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" mandatoryInput="_J2kTQEFWEeeXYpPycUtd4A" output="_PP5IYEFWEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_t2rg8UFVEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_J2kTQEFWEeeXYpPycUtd4A/mandatoryInput/_PP5IYEFWEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_t2rg8EFVEeeXYpPycUtd4A" name="SEPG" guid="_t2rg8EFVEeeXYpPycUtd4A" presentationName="SEPG" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A _mrCkMEFWEeeXYpPycUtd4A _wPL-gEFXEeeXYpPycUtd4A _qNOmoEFYEeeXYpPycUtd4A _IOHnYEFZEeeXYpPycUtd4A _dV2PEEFZEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_t2xnkEFVEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_HhbCMD8kEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_J2kTQEFWEeeXYpPycUtd4A" name="Plan de configuración" guid="_J2kTQEFWEeeXYpPycUtd4A" presentationName="Plan de configuración" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_J2kTQUFWEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_A-ll8EFWEeeXYpPycUtd4A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_PP5IYEFWEeeXYpPycUtd4A" name="Repositorio de proyecto" guid="_PP5IYEFWEeeXYpPycUtd4A" presentationName="Repositorio de proyecto" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_PP5IYUFWEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_m46r4D9YEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_UGd1wEFWEeeXYpPycUtd4A" name="Contról de acceso a CM" guid="_UGd1wEFWEeeXYpPycUtd4A" presentationName="Contról de acceso&#xD;&#xA; a CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" linkToPredecessor="_fHDuAEFZEeeXYpPycUtd4A" isSynchronizedWithSource="false" mandatoryInput="_PP5IYEFWEeeXYpPycUtd4A" output="_mrCkMEFWEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_Z-IzwEFWEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_PP5IYEFWEeeXYpPycUtd4A/mandatoryInput/_mrCkMEFWEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_mrCkMEFWEeeXYpPycUtd4A" name="Permisos de acceso a repositorio" guid="_mrCkMEFWEeeXYpPycUtd4A" presentationName="Permisos de acceso a repositorio" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_mrCkMUFWEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_c6ImMD9mEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7zvcQEFWEeeXYpPycUtd4A" name="Seguimiento de la CM" guid="_7zvcQEFWEeeXYpPycUtd4A" presentationName="Seguimiento de&#xD;&#xA; la CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" linkToPredecessor="_AzjEgEFfEeeXYpPycUtd4A _4GMdYEFfEeeXYpPycUtd4A" isSynchronizedWithSource="false" output="_PP5IYEFWEeeXYpPycUtd4A" performedPrimarilyBy="_CBW1EEFXEeeXYpPycUtd4A _CBW1EkFXEeeXYpPycUtd4A _CBW1E0FXEeeXYpPycUtd4A _CBW1FEFXEeeXYpPycUtd4A _CBW1FUFXEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBW1EUFXEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_CBW1EEFXEeeXYpPycUtd4A/performedPrimarilyBy/_CBW1EkFXEeeXYpPycUtd4A/performedPrimarilyBy/_CBW1E0FXEeeXYpPycUtd4A/performedPrimarilyBy/_CBW1FEFXEeeXYpPycUtd4A/performedPrimarilyBy/_CBW1FUFXEeeXYpPycUtd4A/performedPrimarilyBy/_PP5IYEFWEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CBW1EEFXEeeXYpPycUtd4A" name="Desarrollador Hardware" guid="_CBW1EEFXEeeXYpPycUtd4A" presentationName="Desarrollador Hardware" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBXcIEFXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_fUyJsD8kEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CBW1EkFXEeeXYpPycUtd4A" name="Desarrollador Software" guid="_CBW1EkFXEeeXYpPycUtd4A" presentationName="Desarrollador Software" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBYDMEFXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_h41a0D8kEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CBW1E0FXEeeXYpPycUtd4A" name="Diseniador Electronico" guid="_CBW1E0FXEeeXYpPycUtd4A" presentationName="Diseniador Electronico" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBYDMUFXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_6XEEQD8kEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CBW1FEFXEeeXYpPycUtd4A" name="Diseñador Grafico" guid="_CBW1FEFXEeeXYpPycUtd4A" presentationName="Diseñador Grafico" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBYDMkFXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_20bD8D8kEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_CBW1FUFXEeeXYpPycUtd4A" name="Lider de Proyecto" guid="_CBW1FUFXEeeXYpPycUtd4A" presentationName="Lider de Proyecto" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_PP5IYEFWEeeXYpPycUtd4A _qNOmoEFYEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_CBYDM0FXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_ZZ2RwD8jEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_wPL-gEFXEeeXYpPycUtd4A" name="Bitacora de Proyecto" guid="_wPL-gEFXEeeXYpPycUtd4A" presentationName="Bitacora de Proyecto" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_wPL-gUFXEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_ezbGED9FEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5pIJYEFXEeeXYpPycUtd4A" name="Revisión de historial de cambios" guid="_5pIJYEFXEeeXYpPycUtd4A" presentationName="Revisión de historial&#xD;&#xA; de cambios" superActivities="_VZx_oUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" mandatoryInput="_PP5IYEFWEeeXYpPycUtd4A" output="_wPL-gEFXEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_IojWEEFYEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_PP5IYEFWEeeXYpPycUtd4A/mandatoryInput/_wPL-gEFXEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_e3FNwEFYEeeXYpPycUtd4A" name="Petición de cambio a CM" guid="_e3FNwEFYEeeXYpPycUtd4A" presentationName="Petición de cambio&#xD;&#xA; a CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" output="_qNOmoEFYEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_i0HrEEFYEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_qNOmoEFYEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_qNOmoEFYEeeXYpPycUtd4A" name="Documento Petición de Cambios" guid="_qNOmoEFYEeeXYpPycUtd4A" presentationName="Documento Petición de Cambios" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_qNOmoUFYEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_g6LXMD9FEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_u2reAEFYEeeXYpPycUtd4A" name="Valoración de cambio a CM" guid="_u2reAEFYEeeXYpPycUtd4A" presentationName="Valoración de cambio&#xD;&#xA; a CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" linkToPredecessor="_hFXNwEFZEeeXYpPycUtd4A" isSynchronizedWithSource="false" mandatoryInput="_qNOmoEFYEeeXYpPycUtd4A" output="_qNOmoEFYEeeXYpPycUtd4A" performedPrimarilyBy="_CBW1FUFXEeeXYpPycUtd4A _1kL30EFYEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_xdu_0EFYEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_CBW1FUFXEeeXYpPycUtd4A/performedPrimarilyBy/_1kL30EFYEeeXYpPycUtd4A/performedPrimarilyBy/_qNOmoEFYEeeXYpPycUtd4A/mandatoryInput/_qNOmoEFYEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_1kL30EFYEeeXYpPycUtd4A" name="Gerencia" guid="_1kL30EFYEeeXYpPycUtd4A" presentationName="Gerencia" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw" modifies="_qNOmoEFYEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_1kL30UFYEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <Role href="uma://_SMsHgD8jEeeLrpNhssVv8A#_e4RCQD8jEeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_A_xKUEFZEeeXYpPycUtd4A" name="Modificación de la CM" guid="_A_xKUEFZEeeXYpPycUtd4A" presentationName="Modificación de la CM" superActivities="_VZx_oUAVEeer85hVr7UZzw" isSynchronizedWithSource="false" mandatoryInput="_qNOmoEFYEeeXYpPycUtd4A" output="_IOHnYEFZEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_ECNnoEFZEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_qNOmoEFYEeeXYpPycUtd4A/mandatoryInput/_IOHnYEFZEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_IOHnYEFZEeeXYpPycUtd4A" name="Minuta" guid="_IOHnYEFZEeeXYpPycUtd4A" presentationName="Minuta" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_IOHnYUFZEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_7YVssD90EeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_N_a3oEFZEeeXYpPycUtd4A" name="Revisión de cambio" guid="_N_a3oEFZEeeXYpPycUtd4A" presentationName="Revisión de cambio" superActivities="_VZx_oUAVEeer85hVr7UZzw" linkToPredecessor="_hxwZsEFZEeeXYpPycUtd4A" isSynchronizedWithSource="false" mandatoryInput="_PP5IYEFWEeeXYpPycUtd4A" output="_PP5IYEFWEeeXYpPycUtd4A" performedPrimarilyBy="_CBW1FUFXEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_RQAeoEFZEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_CBW1FUFXEeeXYpPycUtd4A/performedPrimarilyBy/_PP5IYEFWEeeXYpPycUtd4A/mandatoryInput/_PP5IYEFWEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Y2FfMEFZEeeXYpPycUtd4A" name="Notificar estatus de MC" guid="_Y2FfMEFZEeeXYpPycUtd4A" presentationName="Notificar estatus&#xD;&#xA; de MC" superActivities="_VZx_oUAVEeer85hVr7UZzw" linkToPredecessor="_kPoKUEFZEeeXYpPycUtd4A" isSynchronizedWithSource="false" output="_dV2PEEFZEeeXYpPycUtd4A" performedPrimarilyBy="_t2rg8EFVEeeXYpPycUtd4A">
+        <methodElementProperty xmi:id="_b4zCQEFZEeeXYpPycUtd4A" name="descriptor_localUsingInfo" value="_t2rg8EFVEeeXYpPycUtd4A/performedPrimarilyBy/_dV2PEEFZEeeXYpPycUtd4A/output"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_dV2PEEFZEeeXYpPycUtd4A" name="correo" guid="_dV2PEEFZEeeXYpPycUtd4A" presentationName="Correo" isPlanned="false" superActivities="_VZx_oUAVEeer85hVr7UZzw">
+        <methodElementProperty xmi:id="_dV2PEUFZEeeXYpPycUtd4A" name="descriptor_createdByReference" value="true"/>
+        <WorkProduct href="uma://_SMsHgD8jEeeLrpNhssVv8A#_DLSwoD8-EeeLrpNhssVv8A"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fHDuAEFZEeeXYpPycUtd4A" guid="_fHDuAEFZEeeXYpPycUtd4A" pred="_mulc4EFVEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hFXNwEFZEeeXYpPycUtd4A" guid="_hFXNwEFZEeeXYpPycUtd4A" pred="_e3FNwEFYEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hxwZsEFZEeeXYpPycUtd4A" guid="_hxwZsEFZEeeXYpPycUtd4A" pred="_A_xKUEFZEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kPoKUEFZEeeXYpPycUtd4A" guid="_kPoKUEFZEeeXYpPycUtd4A" pred="_N_a3oEFZEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_AzjEgEFfEeeXYpPycUtd4A" guid="_AzjEgEFfEeeXYpPycUtd4A" pred="_UGd1wEFWEeeXYpPycUtd4A"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_4GMdYEFfEeeXYpPycUtd4A" guid="_4GMdYEFfEeeXYpPycUtd4A" pred="_Y2FfMEFZEeeXYpPycUtd4A"/>
     </childPackages>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iob9ED93EeeLrpNhssVv8A" guid="_iob9ED93EeeLrpNhssVv8A"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jFFc0D93EeeLrpNhssVv8A" guid="_jFFc0D93EeeLrpNhssVv8A"/>

@@ -210,6 +210,12 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_HJGTMEBgEee6M-LTB7rwOg" name="Matriz de rastreabilidad" guid="_HJGTMEBgEee6M-LTB7rwOg" presentationName="Matriz de rastreabilidad">
             <methodElementProperty xmi:id="_Knhh4EBgEee6M-LTB7rwOg" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_POlVEEE7EeeXYpPycUtd4A" name="Contrato de proyecto" guid="_POlVEEE7EeeXYpPycUtd4A" presentationName="Contrato de proyecto">
+            <methodElementProperty xmi:id="_SMw9cEE7EeeXYpPycUtd4A" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A-ll8EFWEeeXYpPycUtd4A" name="Plan de configuración" guid="_A-ll8EFWEeeXYpPycUtd4A" presentationName="Plan de configuración">
+            <methodElementProperty xmi:id="_F_91IEFWEeeXYpPycUtd4A" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SMsukD8jEeeLrpNhssVv8A" name="CapabilityPatterns" guid="_SMsukD8jEeeLrpNhssVv8A"/>
