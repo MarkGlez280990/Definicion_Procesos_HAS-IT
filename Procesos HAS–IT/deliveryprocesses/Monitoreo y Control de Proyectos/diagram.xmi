@@ -369,7 +369,7 @@
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2pi2gUAdEeer85hVr7UZzw" id="(0.9464285714285714,0.25)"/>
     </edges>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_oXZxIEAeEeer85hVr7UZzw" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_oXZxIEAeEeer85hVr7UZzw" autoLayout="false">
     <linkedElement xmi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_1WYdAD9CEeeLrpNhssVv8A#_1WYdAT9CEeeLrpNhssVv8A"/>
   </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
   <notation:Diagram xmi:id="_oXZxIUAeEeer85hVr7UZzw" type="ADD" element="_oXZxIEAeEeer85hVr7UZzw" name="Monitoreo y Control de Proyectos" measurementUnit="Pixel">
@@ -385,7 +385,7 @@
     <styles xmi:type="notation:GuideStyle" xmi:id="_obbVg0AeEeer85hVr7UZzw"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_obbVhEAeEeer85hVr7UZzw"/>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obbVhUAeEeer85hVr7UZzw" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obbVhUAeEeer85hVr7UZzw" autoLayout="false">
     <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_1WYdAD9CEeeLrpNhssVv8A#_jFtkIEAVEeer85hVr7UZzw"/>
   </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
   <notation:Diagram xmi:id="_obbVhkAeEeer85hVr7UZzw" type="ADD" element="_obbVhUAeEeer85hVr7UZzw" name="Procesos Danieñl" measurementUnit="Pixel">
@@ -393,7 +393,7 @@
     <styles xmi:type="notation:GuideStyle" xmi:id="_obbViEAeEeer85hVr7UZzw"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_obbViUAeEeer85hVr7UZzw"/>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obkfcEAeEeer85hVr7UZzw" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obkfcEAeEeer85hVr7UZzw" autoLayout="false">
     <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_1WYdAD9CEeeLrpNhssVv8A#_k2MqUUAVEeer85hVr7UZzw"/>
   </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
   <notation:Diagram xmi:id="_obkfcUAeEeer85hVr7UZzw" type="ADD" element="_obkfcEAeEeer85hVr7UZzw" name="Procesos Gerardo" measurementUnit="Pixel">
@@ -401,7 +401,7 @@
     <styles xmi:type="notation:GuideStyle" xmi:id="_obkfc0AeEeer85hVr7UZzw"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_obkfdEAeEeer85hVr7UZzw"/>
   </notation:Diagram>
-  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obkfdUAeEeer85hVr7UZzw" autoLayout="true">
+  <org.eclipse.epf.diagram.model:ActivityDetailDiagram xmi:id="_obkfdUAeEeer85hVr7UZzw" autoLayout="false">
     <linkedElement xmi:type="org.eclipse.epf.uma:Activity" href="uma://_1WYdAD9CEeeLrpNhssVv8A#_l9uTEEAVEeer85hVr7UZzw"/>
   </org.eclipse.epf.diagram.model:ActivityDetailDiagram>
   <notation:Diagram xmi:id="_obkfdkAeEeer85hVr7UZzw" type="ADD" element="_obkfdUAeEeer85hVr7UZzw" name="Procesos Mauricio" measurementUnit="Pixel">
