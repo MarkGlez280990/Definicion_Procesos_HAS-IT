@@ -210,6 +210,22 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_HJGTMEBgEee6M-LTB7rwOg" name="Matriz de rastreabilidad" guid="_HJGTMEBgEee6M-LTB7rwOg" presentationName="Matriz de rastreabilidad">
             <methodElementProperty xmi:id="_Knhh4EBgEee6M-LTB7rwOg" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_6CJ9UEPcEeeNdL2O_GSLpQ" name="cotizaciones" guid="_6CJ9UEPcEeeNdL2O_GSLpQ" presentationName="Cotizaciones">
+            <methodElementProperty xmi:id="_7XG-EEPcEeeNdL2O_GSLpQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_1Q-Q0EPdEeeNdL2O_GSLpQ" name="lista_de_proveedores" guid="_1Q-Q0EPdEeeNdL2O_GSLpQ" presentationName="Lista de proveedores">
+            <methodElementProperty xmi:id="_3ZZV4EPdEeeNdL2O_GSLpQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_60VLsEPdEeeNdL2O_GSLpQ" name="new_artifact" guid="_60VLsEPdEeeNdL2O_GSLpQ" presentationName="New Artifact"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_8KKWMEPdEeeNdL2O_GSLpQ" name="contrato_con_proveedor" guid="_8KKWMEPdEeeNdL2O_GSLpQ" presentationName="Contrato con proveedor">
+            <methodElementProperty xmi:id="_9xjx0EPdEeeNdL2O_GSLpQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_Qaw9YET2EeeEvLTAAx__VQ" name="reporte_de_revisin" guid="_Qaw9YET2EeeEvLTAAx__VQ" presentationName="Reporte de revisión">
+            <methodElementProperty xmi:id="_SJdT0ET2EeeEvLTAAx__VQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_G5YRQET3EeeEvLTAAx__VQ" name="documento_de_revisin" guid="_G5YRQET3EeeEvLTAAx__VQ" presentationName="Documento de revisión">
+            <methodElementProperty xmi:id="_IOUq8ET3EeeEvLTAAx__VQ" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_SMsukD8jEeeLrpNhssVv8A" name="CapabilityPatterns" guid="_SMsukD8jEeeLrpNhssVv8A"/>
